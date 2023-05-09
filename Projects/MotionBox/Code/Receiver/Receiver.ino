@@ -25,33 +25,33 @@ void ReceiverSetup(byte address[]) {
 
 void setup() {
   Serial.begin(9600);
-  LEDsSetup(4, 5, 6);
+  LEDsSetup(A0, A1, A2);
   BuzzerSetup(3, 2);
   ReceiverSetup("00001");
-  digitalWrite(5, HIGH);
+  digitalWrite(A1, HIGH);
 }
 
 void Receiver(int iPin) {
   char text[32] = "";
   if (radio.available()) {
-    digitalWrite(5, LOW);
+    digitalWrite(A1, LOW);
     radio.read(&text, sizeof(text));
     String transData = String(text);
     if(transData == "verify") {
       Serial.println("Te-am prins");
-      digitalWrite(6, LOW);
+      digitalWrite(A2, LOW);
       digitalWrite(3, HIGH);
-      digitalWrite(4, HIGH);
+      digitalWrite(A0, HIGH);
       tone(iPin, 2000);
       delay(500);
-      digitalWrite(4, LOW);
+      digitalWrite(A0, LOW);
       tone(iPin, 1600);
       delay(500);
-      digitalWrite(4, HIGH);
+      digitalWrite(A0, HIGH);
     }
     Serial.println("Liber");
-    digitalWrite(6, HIGH);
-    digitalWrite(4, LOW);
+    digitalWrite(A2, HIGH);
+    digitalWrite(A0, LOW);
     digitalWrite(3, LOW);
     noTone(iPin);  
   }
