@@ -140,7 +140,7 @@ void setup()
 
 void loop()
 {
-  if(digitalRead(GPIO_NUM_13) == HIGH) {
+  if(digitalRead(GPIO_NUM_12) == HIGH) {
     SendCapturedImage();
   }
 }
