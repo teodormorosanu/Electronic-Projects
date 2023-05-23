@@ -69,30 +69,9 @@ void setup()
 
   if (WiFi.status() != WL_CONNECTED) {
     Serial.println("Reset");
-    
-    ledcAttachPin(4, 3);
-    ledcSetup(3, 5000, 8);
-    ledcWrite(3,10);
-    delay(200);
-    ledcWrite(3,0);
-    delay(200);    
-    ledcDetachPin(3);
-        
     delay(1000);
     ESP.restart();
   }
-  else {
-    ledcAttachPin(4, 3);
-    ledcSetup(3, 5000, 8);
-    for (int i=0;i<5;i++) {
-      ledcWrite(3,10);
-      delay(200);
-      ledcWrite(3,0);
-      delay(200);    
-    }
-    ledcDetachPin(3);      
-  }
-
   camera_config_t config;
   config.ledc_channel = LEDC_CHANNEL_0;
   config.ledc_timer = LEDC_TIMER_0;
