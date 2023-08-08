@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-08-01T14:26:49.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="CzsmjwEVT7i3Cf3B6jeU" version="21.6.5" type="device">
+<mxfile host="Electron" modified="2023-08-06T21:17:37.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="xksXFkROhtdsyWMqUXk0" version="21.6.5" type="device">
   <diagram name="Page-1" id="RBe4kKmWxrb9Rina0VuJ">
     <mxGraphModel dx="2245" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -371,7 +371,7 @@
             <mxRectangle width="67" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ArVEng4QAlD6mpoN11b1-114" value="~ 127" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;strokeColor=default;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-111" vertex="1">
+        <mxCell id="ArVEng4QAlD6mpoN11b1-114" value="~ 132" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;strokeColor=default;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-111" vertex="1">
           <mxGeometry x="166" width="68" height="51" as="geometry">
             <mxRectangle width="68" height="51" as="alternateBounds" />
           </mxGeometry>
@@ -386,12 +386,12 @@
             <mxRectangle width="84" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ArVEng4QAlD6mpoN11b1-117" value="13.97" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;strokeColor=default;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-111" vertex="1">
+        <mxCell id="ArVEng4QAlD6mpoN11b1-117" value="14.52" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;strokeColor=default;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-111" vertex="1">
           <mxGeometry x="400" width="54" height="51" as="geometry">
             <mxRectangle width="54" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ArVEng4QAlD6mpoN11b1-118" value="2.54" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;strokeColor=default;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-111" vertex="1">
+        <mxCell id="ArVEng4QAlD6mpoN11b1-118" value="2.65" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;strokeColor=default;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-111" vertex="1">
           <mxGeometry x="454" width="49" height="51" as="geometry">
             <mxRectangle width="49" height="51" as="alternateBounds" />
           </mxGeometry>
@@ -402,7 +402,7 @@
         <mxCell id="ArVEng4QAlD6mpoN11b1-120" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=#cdeb8b;strokeColor=#000000;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-119" vertex="1">
           <mxGeometry width="502.5" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ArVEng4QAlD6mpoN11b1-121" value="&amp;nbsp; Total Price (RON) :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;u&gt;93.85&lt;/u&gt;" style="connectable=0;recursiveResize=0;align=left;fontStyle=1;html=1;fillColor=#dae8fc;strokeColor=#000000;rowspan=1;colspan=7;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-120" vertex="1">
+        <mxCell id="ArVEng4QAlD6mpoN11b1-121" value="&amp;nbsp; Total Price (RON) :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;u&gt;94.40&lt;/u&gt;" style="connectable=0;recursiveResize=0;align=left;fontStyle=1;html=1;fillColor=#dae8fc;strokeColor=#000000;rowspan=1;colspan=7;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-120" vertex="1">
           <mxGeometry width="503" height="57" as="geometry">
             <mxRectangle width="99" height="57" as="alternateBounds" />
           </mxGeometry>
@@ -440,7 +440,7 @@
         <mxCell id="ArVEng4QAlD6mpoN11b1-128" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=#cdeb8b;strokeColor=#000000;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-119" vertex="1">
           <mxGeometry y="57" width="502.5" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ArVEng4QAlD6mpoN11b1-129" value="&amp;nbsp; Total Price (EUR) :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;u&gt;18.67&lt;/u&gt;" style="connectable=0;recursiveResize=0;align=left;fontStyle=1;html=1;fillColor=#dae8fc;strokeColor=#000000;rowspan=1;colspan=7;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-128" vertex="1">
+        <mxCell id="ArVEng4QAlD6mpoN11b1-129" value="&amp;nbsp; Total Price (EUR) :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;u&gt;18.78&lt;/u&gt;" style="connectable=0;recursiveResize=0;align=left;fontStyle=1;html=1;fillColor=#dae8fc;strokeColor=#000000;rowspan=1;colspan=7;fontSize=15;" parent="ArVEng4QAlD6mpoN11b1-128" vertex="1">
           <mxGeometry width="503" height="57" as="geometry">
             <mxRectangle width="99" height="57" as="alternateBounds" />
           </mxGeometry>
