@@ -2,7 +2,7 @@
 #include "RTClib.h"
 
 RTC_PCF8563 rtc;
-int motorIn = 11;
+int motorIn = 11; // MX1508 IN1
 
 void setup () {
   Wire.begin(); // Wire begin
