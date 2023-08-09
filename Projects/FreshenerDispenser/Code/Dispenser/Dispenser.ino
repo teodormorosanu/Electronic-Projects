@@ -5,7 +5,6 @@ RTC_PCF8563 rtc;
 int motorIn = 11;
 
 void setup () {
-  Serial.begin(9600);
   Wire.begin(); // Wire begin
   rtc.begin(); // Real time clock begin
   rtc.adjust(DateTime(__DATE__, __TIME__)); // Adjusting the RTC (computer date)
@@ -19,5 +18,4 @@ void loop () {
   } else {
     digitalWrite(motorIn, LOW);
   }
-  Serial.println(now.second());
 }
