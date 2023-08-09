@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-08-08T17:18:26.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="JIipNzCFu78L9bB-CILP" version="21.6.5" type="device">
+<mxfile host="Electron" modified="2023-08-09T13:52:26.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="GrjDtTUnVh5qH_OJWyKi" version="21.6.5" type="device">
   <diagram name="Page-1" id="RBe4kKmWxrb9Rina0VuJ">
     <mxGraphModel dx="2245" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -22,7 +22,7 @@
             <mxPoint x="827" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mw_88Z8rka56BvABdyxa-9" value="&lt;div style=&quot;&quot;&gt;For an easier mounting follow the assembly steps in the order presented above&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;The AAA Holder is loose for an easy batteries changing&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Mw_88Z8rka56BvABdyxa-9" value="&lt;div style=&quot;&quot;&gt;For an easier mounting follow the assembly steps in the order presented above&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;The AAA Holder is loose for an easier batteries changing&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4" y="-40" width="466" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mw_88Z8rka56BvABdyxa-12" value="In the 9th step the wires are added | AAA Holder&#39;s at the end&lt;br&gt;&lt;div style=&quot;&quot;&gt;The recommended wires lenght is&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;smaller than&lt;/b&gt;&amp;nbsp;100 mm&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
