@@ -21,14 +21,14 @@ char startupFailure[50] = {0};
 /************************** Wifi **************************/
 
 char hostName[32] = "CAM"; // Default Host name
-char ST_SSID[32]  = "Morosanu_1"; //Default router ssid
-char ST_Pass[MAX_PWD_LEN] = "Morosanu_2021"; //Default router passd
+char ST_SSID[32]  = ""; //Default router ssid
+char ST_Pass[MAX_PWD_LEN] = ""; //Default router passd
 
 // leave following blank for dhcp
 char ST_ip[16]  = ""; // Static IP
 char ST_sn[16]  = ""; // subnet normally 255.255.255.0
-char ST_gw[16]  = "192.168.0.1"; // gateway to internet, normally router IP
-char ST_ns1[16] = "213.233.64.233"; // DNS Server, can be router IP (needed for SNTP)
+char ST_gw[16]  = ""; // gateway to internet, normally router IP
+char ST_ns1[16] = ""; // DNS Server, can be router IP (needed for SNTP)
 char ST_ns2[16] = ""; // alternative DNS Server, can be blank
 
 // Access point Config Portal SSID and Pass

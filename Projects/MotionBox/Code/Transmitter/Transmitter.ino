@@ -2,12 +2,16 @@
 #include <nRF24L01.h> // Libraries for nRF24L01 transmitter
 #include <RF24.h>
 
-RF24 radio(7,8); // Initialising RF24
+#define NRF_CE 7 // NRF24L01 CE pin
+#define NRF_CSN 8 // NRF24L01 CSN pin
+#define PIR 3 // PIR OUT pin
+
+RF24 radio(NRF_CE, NRF_CSN); // Initialising RF24
 
 int sensorValue; // Variable for storing the PIR sensor value
 
-void PirSetup(int sensorPin) { // Method for PIR setup
-  pinMode(sensorPin, INPUT); // Setting the sensorPin as input
+void PirSetup() { // Method for PIR setup
+  pinMode(PIR, INPUT); // Setting the PIR pin as input
 }
 
 void TransmitterSetup(byte address[]) { // Method for transmitter setup
@@ -19,12 +23,12 @@ void TransmitterSetup(byte address[]) { // Method for transmitter setup
 }
 
 void setup() {
-  PirSetup(3); // Method for PIR setup
+  PirSetup(); // Method for PIR setup
   TransmitterSetup("00001"); // Method for transmitter setup
 }
 
 void Pir() { // Method for getting the PIR sensor value
-  sensorValue = digitalRead(3); // Getting the sensor voltage (HIGH / LOW)
+  sensorValue = digitalRead(PIR); // Getting the sensor voltage (HIGH / LOW)
 }
 
 void Transmitter() { // Method for transmitting the data
