@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-09-16T13:47:48.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="9H_X37SLXiQ-j9OTdOAE" version="24.1.0" type="device">
+<mxfile host="Electron" modified="2024-09-16T14:47:30.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="djqR20TkwrEEOj3B_mnq" version="24.1.0" type="device">
   <diagram name="Page-1" id="RBe4kKmWxrb9Rina0VuJ">
     <mxGraphModel dx="2261" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -22,10 +22,10 @@
             <mxPoint x="827" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mw_88Z8rka56BvABdyxa-9" value="&lt;div style=&quot;&quot;&gt;Printer Filament is calculated based on the default printer settings (10% Infill Density)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Mw_88Z8rka56BvABdyxa-9" value="&lt;div style=&quot;&quot;&gt;Printer Filament is calculated based on the default printer settings. (10% Infill Density)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4" y="-40" width="466" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mw_88Z8rka56BvABdyxa-12" value="&lt;div style=&quot;&quot;&gt;The total price&amp;nbsp;&lt;b&gt;DOES NOT&lt;/b&gt;&amp;nbsp;include the consumables&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Mw_88Z8rka56BvABdyxa-12" value="&lt;div style=&quot;&quot;&gt;The total price&amp;nbsp;&lt;b&gt;DOES NOT&lt;/b&gt;&amp;nbsp;include the consumables.&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="484" y="-40" width="346" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mw_88Z8rka56BvABdyxa-13" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;" parent="1" edge="1">
