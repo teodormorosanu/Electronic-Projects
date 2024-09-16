@@ -183,8 +183,8 @@ const unsigned char waterDrop100 [] PROGMEM = { // 100% water bitmap
 unsigned period = 1000; // Blinking rate when water is low (miliseconds)
 unsigned safeTime = 0; // Time counter for stopping the pump if can't draw water
 unsigned long timeNow = 0; // Time now
-unsigned dryness = 350; // Maximum dryness before watering (value from handmade)
-unsigned maxSafeTime = 10; // Maximum safe time
+unsigned dryness = 300; // Maximum dryness before watering (value from soil humidty sensor)
+unsigned maxSafeTime = 60; // Maximum safe time
 
 unsigned waterLevel25 = 105; // Values for the handmade water level sensor (Needs calibration due to water corrosion)
 unsigned waterLevel50 = 100; 
@@ -244,6 +244,12 @@ void PumpSetup() { // Pump setup
   pinMode(IN1, OUTPUT); // Setting the MX1508 IN1
 }
 
+void setup () {
+  DisplaySetup(); // Display setup
+  SensorsSetup(); // Sensors setup
+  PumpSetup(); // Pump setup
+}
+
 void Watering() { // Watering method
   if(analogRead(HUMIDITY) >= dryness) {
       if(safeTime < maxSafeTime) {
@@ -255,21 +261,24 @@ void Watering() { // Watering method
           display.setTextSize(2);
           display.setTextColor(SSD1306_WHITE);
           display.cp437(true);
-          display.setCursor(2, 17);
-          display.print("ERROR - Restart");
+          display.setCursor(35, 1);
+          display.print("Error:");
+          display.setTextSize(1);
+          display.setCursor(15, 17);
+          display.print("Check water level");
+          display.setCursor(5, 25);
+          display.print("Check water pressure");
           display.display();
+          delay(period / 2);
+          display.clearDisplay();
+          display.display();
+          delay(period / 2);
         }
       }
     } else {
       safeTime = 0;
       digitalWrite(IN1, LOW);
     }
-}
-
-void setup () {
-  DisplaySetup(); // Display setup
-  SensorsSetup(); // Sensors setup
-  PumpSetup(); // Pump setup
 }
 
 void loop () {
