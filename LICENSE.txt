@@ -4,12 +4,12 @@ This project is copyrighted and protected under international copyright laws.
 
 You are NOT permitted to:
 - Use this project for commercial purposes.
-- Copy, distribute, or modify this project without giving proper credit to the original author ([teoelectric]).
+- Copy, distribute, or modify this project without giving proper credit to the original author (teoelectric).
 - Claim this project, or any derivatives of it, as your own.
 
 The credit must include a link to the original repository and clearly state that teoelectric is the author.
 
 Only teoelectric retains the right to use, modify, and distribute this project without restriction. 
-If you wish to use this project for other purposes, you must obtain explicit written permission from teoelectric.
+If you wish to use this project for other purposes, you must obtain explicit written permission from the author.
 
 For inquiries, contact: teoelectricofficial@gmail.com
