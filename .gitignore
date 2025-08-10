@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea/
+Projects/Sunflower/Code/UnityApp/MyPlants/.vscode
+Projects/Sunflower/Code/UnityApp/MyPlants/Logs
+Projects/Sunflower/Code/UnityApp/MyPlants/Library
+Projects/Sunflower/Code/UnityApp/MyPlants/Temp
