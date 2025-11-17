@@ -1,3 +1,5 @@
+/* DISCLAIMER - THIS VERSION IS A PROTOTYPE */
+
 #include <ESPAsyncWebServer.h>
 #include <DNSServer.h>
 #include <ESPmDNS.h>
