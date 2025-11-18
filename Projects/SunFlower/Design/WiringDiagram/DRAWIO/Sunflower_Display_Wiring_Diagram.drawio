@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-08-16T22:33:41.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="f2_Bz-SP90l0B5x00bpq" version="24.1.0" type="device">
+<mxfile host="Electron" modified="2025-11-18T18:46:49.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="8dUNJB1zzA1wnauQodJg" version="24.1.0" type="device">
   <diagram name="Sheet 1" id="UGNu6xjKtt4rFMHI1lM3">
     <mxGraphModel dx="1418" dy="820" grid="1" gridSize="1.9685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="RHVwo-skgekwH-NN-9mm-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Complexity (Scale 0-5)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
           <mxGeometry x="41.34" y="944.88" width="122.05" height="12.29" as="geometry" />
         </mxCell>
-        <mxCell id="RHVwo-skgekwH-NN-9mm-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Number of connections&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
+        <mxCell id="RHVwo-skgekwH-NN-9mm-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Number of components&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
           <mxGeometry x="175.2" y="944.88" width="125.98" height="12.29" as="geometry" />
         </mxCell>
         <mxCell id="RHVwo-skgekwH-NN-9mm-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Type of circuit (Power Supply: 5V)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
@@ -121,7 +121,7 @@
         <mxCell id="RHVwo-skgekwH-NN-9mm-28" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Level 3&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
           <mxGeometry x="41.34" y="964.57" width="90.55" height="12.29" as="geometry" />
         </mxCell>
-        <mxCell id="RHVwo-skgekwH-NN-9mm-29" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;4&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
+        <mxCell id="RHVwo-skgekwH-NN-9mm-29" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;8&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
           <mxGeometry x="175.2" y="964.57" width="133.85" height="12.29" as="geometry" />
         </mxCell>
         <mxCell id="RHVwo-skgekwH-NN-9mm-30" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;Direct Current&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
@@ -145,7 +145,7 @@
         <mxCell id="RHVwo-skgekwH-NN-9mm-36" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;1/1&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
           <mxGeometry x="735.934" y="1106.2939999999994" width="49.21" height="12.29" as="geometry" />
         </mxCell>
-        <mxCell id="RHVwo-skgekwH-NN-9mm-38" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
+        <mxCell id="RHVwo-skgekwH-NN-9mm-38" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
           <mxGeometry x="557.0884999999998" y="1106.297" width="19.69" height="12.29" as="geometry" />
         </mxCell>
         <mxCell id="RHVwo-skgekwH-NN-9mm-39" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;The connections are made&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
@@ -190,7 +190,7 @@
         <mxCell id="k2Tn0CahataBDyhLNwIw-0" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;LEDs &lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;(L) &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;V&lt;sub&gt;F&amp;nbsp;&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot; data-huuid=&quot;6749851444605154409&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;≈&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;3 V&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
           <mxGeometry x="41.33" y="1104.3284999999998" width="255.91" height="12.29" as="geometry" />
         </mxCell>
-        <mxCell id="e8ufqxX3MdqQVh6WEpKl-0" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;17/08/2025&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
+        <mxCell id="e8ufqxX3MdqQVh6WEpKl-0" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;18/11/2025&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1;fontFamily=Verdana;" parent="RHVwo-skgekwH-NN-9mm-1" vertex="1">
           <mxGeometry x="647.64" y="1106.2900000000002" width="19.69" height="12.29" as="geometry" />
         </mxCell>
       </root>
