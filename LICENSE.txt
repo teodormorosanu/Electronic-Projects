@@ -2,41 +2,34 @@ Copyright © 2023–2025 teoelectric. All rights reserved.
 
 This project is protected by international copyright laws. By using or accessing any part of this project, you agree to the terms outlined below.
 
-Permissions
+*Permissions*
 
 You are welcome to:
 
-Use, view, and learn from this project for personal, educational, or non-commercial purposes.
-
-Share or adapt the project as long as proper credit is given to the original author.
-
-Requirements for Attribution
+- Use, view, and learn from this project for personal, educational, or non-commercial purposes.
+- Share or adapt the project as long as proper credit is given to the original author.
+- Requirements for Attribution
 
 If you redistribute or modify this project, you must:
 
-Credit teoelectric as the original author.
+- Credit teoelectric as the original author.
+- Include a link to the original repository.
+- Clearly state any changes you have made.
 
-Include a link to the original repository.
-
-Clearly state any changes you have made.
-
-Restrictions
+*Restrictions*
 
 You are not permitted to:
 
-Use any part of this project for commercial purposes of any kind.
+- Use any part of this project for commercial purposes of any kind.
+- Remove, obscure, or misrepresent the original author attribution.
+- Claim this project, or any derivative works, as your own.
 
-Remove, obscure, or misrepresent the original author attribution.
+*Exclusive Rights*
 
-Claim this project, or any derivative works, as your own.
+- Only teoelectric retains unrestricted rights to use, modify, and distribute this project.
 
-Exclusive Rights
+*Permissions Beyond This License*
 
-Only teoelectric retains unrestricted rights to use, modify, and distribute this project.
+- If you would like to use this project in a way not covered by the terms above, you must obtain explicit written permission.
 
-Permissions Beyond This License
-
-If you would like to use this project in a way not covered by the terms above, you must obtain explicit written permission.
-
-For inquiries or permission requests, please contact:
-teoelectricofficial@gmail.com
+For inquiries or permission requests, please contact: teoelectricofficial@gmail.com
