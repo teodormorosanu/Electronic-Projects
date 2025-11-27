@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-11-18T18:50:00.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="0kijo6fzI8jxUnalrf-s" version="24.1.0" type="device" pages="2">
+<mxfile host="Electron" modified="2025-11-27T14:03:50.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="5guvxbatPQHI8Tv7skxf" version="24.1.0" type="device" pages="2">
   <diagram name="Sheet 1" id="noxEhjXfcJPRch1m8VZ3">
     <mxGraphModel dx="1418" dy="820" grid="1" gridSize="1.9685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="VQGSf6ayIFre-QUfzGoe-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Number of components&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="175.2" y="944.88" width="125.98" height="12.29" as="geometry" />
         </mxCell>
-        <mxCell id="VQGSf6ayIFre-QUfzGoe-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Type of circuit (Power Supply: 5V)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="VQGSf6ayIFre-QUfzGoe-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Type of circuit (Power Supply: 5V 1A)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="309.06" y="944.88" width="194.88" height="12.29" as="geometry" />
         </mxCell>
         <mxCell id="VQGSf6ayIFre-QUfzGoe-12" value="Maximum / Average power consumption" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sheet 2" id="lQEo5kng8a8k5fkBERFv">
-    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="1.9685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="566" grid="1" gridSize="1.9685" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LUFHxMT0SnIL9BPE9M8x-0" />
         <mxCell id="LUFHxMT0SnIL9BPE9M8x-1" parent="LUFHxMT0SnIL9BPE9M8x-0" />
@@ -270,8 +270,8 @@
         <mxCell id="LUFHxMT0SnIL9BPE9M8x-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Number of components&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="LUFHxMT0SnIL9BPE9M8x-1" vertex="1">
           <mxGeometry x="175.2" y="944.88" width="125.98" height="12.29" as="geometry" />
         </mxCell>
-        <mxCell id="LUFHxMT0SnIL9BPE9M8x-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Type of circuit (Power Supply: 5V)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="LUFHxMT0SnIL9BPE9M8x-1" vertex="1">
-          <mxGeometry x="309.06" y="944.88" width="185.03" height="12.29" as="geometry" />
+        <mxCell id="LUFHxMT0SnIL9BPE9M8x-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Type of circuit (Power Supply: 5V) 1A&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="LUFHxMT0SnIL9BPE9M8x-1" vertex="1">
+          <mxGeometry x="309.06" y="944.88" width="194.88" height="12.29" as="geometry" />
         </mxCell>
         <mxCell id="LUFHxMT0SnIL9BPE9M8x-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Maximum / Average power consumption&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Verdana;fontSize=10;" parent="LUFHxMT0SnIL9BPE9M8x-1" vertex="1">
           <mxGeometry x="549.22" y="944.88" width="220.46" height="12.29" as="geometry" />
@@ -578,22 +578,22 @@
         </mxCell>
         <mxCell id="5zd3pKu6C0upW9i_28oG-11" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;jumpStyle=none;strokeColor=#000000;strokeWidth=1.5;" parent="LUFHxMT0SnIL9BPE9M8x-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="303.5" y="575" as="sourcePoint" />
+            <mxPoint x="293" y="575" as="sourcePoint" />
             <mxPoint x="565.997" y="758.9969999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="304" y="708" />
-              <mxPoint x="583" y="708" />
+              <mxPoint x="293" y="718" />
+              <mxPoint x="583" y="718" />
               <mxPoint x="583" y="759" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5zd3pKu6C0upW9i_28oG-10" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;jumpStyle=arc;strokeColor=#000000;strokeWidth=1.5;" parent="LUFHxMT0SnIL9BPE9M8x-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="293.5" y="575" as="sourcePoint" />
+            <mxPoint x="303" y="575" as="sourcePoint" />
             <mxPoint x="565.9985" y="779.9984999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="294" y="718" />
-              <mxPoint x="594" y="718" />
+              <mxPoint x="303" y="708" />
+              <mxPoint x="594" y="708" />
               <mxPoint x="594" y="780" />
             </Array>
           </mxGeometry>
