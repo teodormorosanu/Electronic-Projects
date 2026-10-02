@@ -1,0 +1,36 @@
+# License
+
+**Copyright © 2023–2026 teoelectric. All rights reserved.**
+
+This project is protected by international copyright laws. By using or accessing any part of this project, you agree to the terms outlined below.
+
+## Permissions
+
+You are allowed to:
+* Use, view, and learn from this project for personal, educational, or non-commercial purposes.
+* Share or adapt the project as long as proper credit is given to the original author.
+
+## Requirements for Attribution
+
+If you redistribute or modify this project, you must:
+* Credit **teoelectric** as the original author.
+* Include a link to the original repository.
+* Clearly state any changes you have made.
+
+## Restrictions
+
+You are **not permitted** to:
+* Use any part of this project for commercial purposes of any kind.
+* Remove, obscure, or misrepresent the original author attribution.
+* Claim this project, or any derivative works, as your own.
+
+## Exclusive Rights
+
+* Only **teoelectric** retains unrestricted rights to use, modify, and distribute this project.
+* If you would like to use this project in a way not covered by the terms above, you must obtain explicit written permission.
+
+---
+
+### Contact
+
+For inquiries or permission requests, please contact: [teoelectricofficial@gmail.com](mailto:teoelectricofficial@gmail.com)
