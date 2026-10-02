@@ -16,14 +16,14 @@ A collection of my hardware and software projects — from quick weekend builds 
 ## Structure
 
 Each project folder typically includes:
-- Source code: Firmware, scripts, and application code (depending on the project)
-- Cost: Itemized bill of materials and total project expenses
-- Design: Complete mechanical and electrical design files
+- `Code`: Firmware, scripts, and application code (depending on the project)
+- `Cost`: Itemized bill of materials and total project expenses
+- `Design`: Complete mechanical and electrical design files
   - `/3DModels` — 3D CAD files and slicer print profiles
   - `/Assembly` — Assembly guides and exploded view diagrams
   - `/Dimensions` — Dimensional drawings and mechanical specifications
   - `/WiringDiagram` — Circuit schematics and electrical wiring diagrams
-- Pictures: High-resolution CAD renders and real life photos of the physical build
+- `Pictures`: High-resolution CAD renders and real life photos of the physical build
 - `README.md`: Dedicated setup instructions, build notes, and documentation
 
 ## License
